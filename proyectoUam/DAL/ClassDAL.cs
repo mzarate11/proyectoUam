@@ -8,5 +8,6 @@ namespace DAL
 {
     class ClassDAL
     {
+        int prueba;
     }
 }
